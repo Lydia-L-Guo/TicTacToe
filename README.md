@@ -3,6 +3,12 @@
 ## Overview
 This is a simple implementation of the classic game Tic-Tac-Toe, built with Swift and UIKit for iOS devices. The game allows two players to compete in turns by tapping on a grid to place either an "X" or an "O". This project demonstrates the use of UIKit components and basic game logic handling in Swift.
 
+<p align="center">
+  <img src="https://github.com/Lydia-L-Guo/TicTocToe/blob/main/gif/TicTocToe1.gif" alt="TicTocToe Gameplay" width="32%">
+  <img src="https://github.com/Lydia-L-Guo/TicTocToe/blob/main/gif/TicTocToe2.gif" alt="TicTocToe Gameplay Continued" width="32%">
+  <img src="https://github.com/Lydia-L-Guo/TicTocToe/blob/main/gif/TicTocToe3.gif" alt="TicTocToe Final Moves" width="32%">
+</p>
+
 ## Features
 - Two-player gameplay on a single device.
 - Graphical grid interface using UIButton.
